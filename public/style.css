@@ -2,6 +2,7 @@ code {
     background-color: whitesmoke;
 }
 
-section, header {
+section,
+header {
     margin: 50px;
 }

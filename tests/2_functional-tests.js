@@ -5,6 +5,4 @@ const server = require('../server');
 
 chai.use(chaiHttp);
 
-suite('Functional Tests', function() {
-
-});
+suite('Functional Tests', function () {});
